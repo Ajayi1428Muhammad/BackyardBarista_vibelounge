@@ -1,0 +1,6 @@
+{
+  "name": "The Backyard Barista",
+  "description": "Specialty coffee crafting studio powered by an AI barista for custom coffee-to-water ratios, grind sizes, temperatures, and step-by-step brewing recipes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
